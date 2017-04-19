@@ -2,12 +2,12 @@
 <html>
 <head>
 	<title>Simple CRUD by TUTORIALWEB.NET</title>
-	
+
 </head>
 <body>
 	<h2>Simple CRUD</h2>
 	
-	<p><a href="index.php">Beranda</a> / <a href="tambah.php">Tambah Data</a></p>
+	<p><a href="home.php">Beranda</a> / <a href="create.php">Tambah Data</a></p>
 	
 	<h3>Tambah Data Siswa</h3>
 	

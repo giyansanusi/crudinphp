@@ -63,7 +63,14 @@
 			
 		}
 		?>
+
 	</table>
+
+	<br>
+	<a href="backendcode/export-to-excel.php">Export Data to Excel</a>
+	<span>
+	<a href="backendcode/export-to-excel-using-phpexcel.php">Export Data to Excel using PHPEXCEL</a>
+
 
 	<!-- footer -->
 	<p><strong>sumber: </strong><?php echo "&nbsp;"; ?><a href="http://tutorialweb.net/membuat-aplikasi-crud-sederhana-dengan-php-dan-mysql/">TutorialWeb.net</a></p>

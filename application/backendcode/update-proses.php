@@ -25,12 +25,12 @@ if(isset($_POST['btn_simpan'])){
 	if($update){
 		
 		echo 'Data berhasil di simpan! ';		//Pesan jika proses simpan sukses
-		echo '<a href="edit.php?id='.$nim.'">Kembali</a>';	//membuat Link untuk kembali ke halaman edit
+		echo '<a href="update.php?id='.$nim.'">Kembali</a>';	//membuat Link untuk kembali ke halaman edit
 		
 	}else{
 		
 		echo 'Gagal menyimpan data! ';		//Pesan jika proses simpan gagal
-		echo '<a href="edit.php?id='.$nim.'">Kembali</a>';	//membuat Link untuk kembali ke halaman edit
+		echo '<a href="update.php?id='.$nim.'">Kembali</a>';	//membuat Link untuk kembali ke halaman edit
 		
 	}
  
